@@ -10,7 +10,7 @@ description: >-
   Account Takeover Protection, Chargeback Management, and Identity Trust
   services exposed through REST APIs, mobile SDKs, a JavaScript Data
   Collector, and e-commerce platform plugins.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/kount/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'

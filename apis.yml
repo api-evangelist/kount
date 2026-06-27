@@ -75,16 +75,16 @@ apis:
         url: https://developer.kount.com/hc/en-us/articles/4411554840980-RESTful-Endpoint-API-Specification-and-Error-Codes
       - type: APIReference
         url: https://api.kount.net/rpc/list.html
-      - type: SDK
+      - type: SDKs
         url: https://github.com/Kount/kount-ris-java-sdk
         title: RIS Java SDK
-      - type: SDK
+      - type: SDKs
         url: https://github.com/Kount/kount-ris-php-sdk
         title: RIS PHP SDK
-      - type: SDK
+      - type: SDKs
         url: https://github.com/Kount/kount-ris-python-sdk
         title: RIS Python SDK
-      - type: SDK
+      - type: SDKs
         url: https://github.com/Kount/kount-ris-dotnet-sdk
         title: RIS .NET SDK
   - aid: kount:kount-data-collector
@@ -106,16 +106,16 @@ apis:
     properties:
       - type: Documentation
         url: https://developer.kount.com/hc/en-us
-      - type: SDK
+      - type: SDKs
         url: https://github.com/Kount/kount-web-sdk
         title: Web (JavaScript) SDK
-      - type: SDK
+      - type: SDKs
         url: https://github.com/Kount/kount-android-sdk
         title: Android SDK
-      - type: SDK
+      - type: SDKs
         url: https://github.com/Kount/kount-ios-sdk
         title: iOS SDK (Objective-C)
-      - type: SDK
+      - type: SDKs
         url: https://github.com/Kount/kount-swift-ios-sdk
         title: iOS SDK (Swift)
 common:
@@ -138,28 +138,28 @@ common:
   - type: ParentCompany
     url: https://www.equifax.com/business/identity-fraud/
     title: Equifax (Parent Company)
-  - type: SDK
+  - type: SDKs
     url: https://github.com/Kount/kount-ris-java-sdk
     title: RIS Java SDK
-  - type: SDK
+  - type: SDKs
     url: https://github.com/Kount/kount-ris-php-sdk
     title: RIS PHP SDK
-  - type: SDK
+  - type: SDKs
     url: https://github.com/Kount/kount-ris-python-sdk
     title: RIS Python SDK
-  - type: SDK
+  - type: SDKs
     url: https://github.com/Kount/kount-ris-dotnet-sdk
     title: RIS .NET SDK
-  - type: SDK
+  - type: SDKs
     url: https://github.com/Kount/kount-android-sdk
     title: Android Data Collector SDK
-  - type: SDK
+  - type: SDKs
     url: https://github.com/Kount/kount-ios-sdk
     title: iOS Data Collector SDK (Objective-C)
-  - type: SDK
+  - type: SDKs
     url: https://github.com/Kount/kount-swift-ios-sdk
     title: iOS Data Collector SDK (Swift)
-  - type: SDK
+  - type: SDKs
     url: https://github.com/Kount/kount-web-sdk
     title: Web (JavaScript) Data Collector SDK
   - type: Integrations

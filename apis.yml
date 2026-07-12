@@ -119,6 +119,8 @@ apis:
         url: https://github.com/Kount/kount-swift-ios-sdk
         title: iOS SDK (Swift)
 common:
+  - type: DomainSecurity
+    url: security/kount-domain-security.yml
   - type: Website
     url: https://kount.com/
   - type: Portal

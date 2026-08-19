@@ -25,7 +25,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kount.png
 url: https://raw.githubusercontent.com/api-evangelist/kount/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 type: Index
 position: Consumer
 access: 3rd-Party

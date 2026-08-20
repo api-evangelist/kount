@@ -78,6 +78,11 @@ apis:
     baseURL: https://api.kount.net/rpc/v1
     tags:
       - Risk Inquiry
+      - Transaction
+      - VIP Lists
+      - Chargebacks
+    tags_raw:
+      - Risk Inquiry
       - Transactions
       - VIP Lists
       - Chargebacks

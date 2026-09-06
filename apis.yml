@@ -267,3 +267,6 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-parent: equifax
+x-relationship: acquired
+x-acquired: '2021-02-01'

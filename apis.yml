@@ -131,6 +131,10 @@ apis:
     tags:
       - Device Intelligence
       - Fingerprinting
+      - Sessions
+    tags_raw:
+      - Device Intelligence
+      - Fingerprinting
       - Session
     properties:
       - type: Documentation

@@ -42,7 +42,18 @@ specificationVersion: '0.23'
 type: Index
 position: Consuming
 access: 3rd-Party
+x-docs-platform: swagger-ui
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-10-03
 tags:
+  - Fraud Prevention
+  - Chargebacks
+  - Payments
+  - Identity
+  - Risk Scoring
+  - Device Intelligence
+  - Account Takeover
+tags_raw:
   - Fraud Prevention
   - Fraud Detection
   - Chargebacks

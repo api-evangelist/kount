@@ -15,3 +15,29 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: kount-bigcommerce-own
+  label: BigCommerce (own)
+  partner: bigcommerce
+  partner_name: BigCommerce (own)
+  category: Payments & Security, Fraud Prevention & Security
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://www.bigcommerce.com/apps/kount-command/
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: kount-salesforce-commerce-cloud-own
+  label: Salesforce Commerce Cloud (own)
+  partner: salesforce-commerce-cloud
+  partner_name: Salesforce Commerce Cloud (own)
+  category: eCommerce
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://appexchange.salesforce.com/appxListingDetail?listingId=c958b084-bc8b-4a19-95ee-eed11a3d6935
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null

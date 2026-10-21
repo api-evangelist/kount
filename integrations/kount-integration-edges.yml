@@ -12,6 +12,8 @@ checked:
 - https://monid.ai/tools/kount
 - https://n8n.io/integrations/kount/
 - https://zapier.com/apps/kount/integrations
+- bigcommerce/integrations/bigcommerce-integration-edges.yml
+- salesforce-commerce-cloud/integrations/salesforce-commerce-cloud-integration-edges.yml
 summary: null
 marketplace_apps: []
 edges:
@@ -33,4 +35,38 @@ edges:
   detected_by: mirror-platform-listings.py
   publisher_verified:
   - Built for Shopify
+- partner_name: BigCommerce (own)
+  partner: bigcommerce
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://www.bigcommerce.com/apps/kount-command/
+  mirror_of: bigcommerce/integrations/bigcommerce-integration-edges.yml
+  apps:
+  - Kount K360
+  listing_count: 1
+  detected: '2026-10-20'
+  detected_by: mirror-platform-listings.py
+  category: Payments & Security, Fraud Prevention & Security
+- partner_name: Salesforce Commerce Cloud (own)
+  partner: salesforce-commerce-cloud
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://appexchange.salesforce.com/appxListingDetail?listingId=c958b084-bc8b-4a19-95ee-eed11a3d6935
+  mirror_of: salesforce-commerce-cloud/integrations/salesforce-commerce-cloud-integration-edges.yml
+  apps:
+  - Kount Command Cartridge for B2C Commerce
+  listing_count: 1
+  detected: '2026-10-20'
+  detected_by: mirror-platform-listings.py
+  category: eCommerce
 templates: []
